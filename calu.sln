@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calu", "calu\calu.csproj", "{04291766-72FD-438A-8A80-2A9085172C23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04291766-72FD-438A-8A80-2A9085172C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04291766-72FD-438A-8A80-2A9085172C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04291766-72FD-438A-8A80-2A9085172C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04291766-72FD-438A-8A80-2A9085172C23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
